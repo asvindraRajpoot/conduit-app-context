@@ -40,4 +40,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-@oshingate@gmail.com
+@aswin1399904@gmail.com
