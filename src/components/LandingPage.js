@@ -8,6 +8,7 @@ import Home from './landingPage/Home';
 import Login from './landingPage/Login';
 import SignUp from './landingPage/SignUp';
 import ErrorBoundry from '../utils/ErrorBoundary';
+import UserContext from '../utils/UserContext';
 
 class LandingPage extends Component {
   constructor(props) {
